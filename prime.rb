@@ -7,5 +7,5 @@ def prime?(num)
   end
 end
 
-def prime?(2)
+prime?(2)
   
